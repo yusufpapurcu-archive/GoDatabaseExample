@@ -6,7 +6,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
-var routes =.Routes{ //Route List
+var routes = models.Routes{ //Route List
 	models.Route{
 		Name:        "UserGet",
 		Path:        "/user/get",
