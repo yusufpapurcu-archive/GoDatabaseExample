@@ -1,12 +1,12 @@
 package route
 
 import (
-	"github.com/YTPSourceCode/SoruApi/api/models"
+	"github.com/yusufpapurcu/GoDatabaseExample/models"
 
 	"github.com/gorilla/mux"
 )
 
-var routes = models.Routes{ //Route List
+var routes =.Routes{ //Route List
 	models.Route{
 		Name:        "UserGet",
 		Path:        "/user/get",

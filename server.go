@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	"github.com/YTPSourceCode/DatabaseTest/database"
+	"github.com/yusufpapurcu/GoDatabaseExample/database"
 
-	"github.com/YTPSourceCode/DatabaseTest/route"
+	"github.com/yusufpapurcu/GoDatabaseExample/route"
 )
 
 func main() {

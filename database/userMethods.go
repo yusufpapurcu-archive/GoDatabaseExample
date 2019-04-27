@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/YTPSourceCode/DatabaseTest/models"
+	"github.com/yusufpapurcu/GoDatabaseExample/models"
 
 	"go.mongodb.org/mongo-driver/bson"
 )

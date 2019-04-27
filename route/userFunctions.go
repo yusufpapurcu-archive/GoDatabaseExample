@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/YTPSourceCode/DatabaseTest/database"
-	"github.com/YTPSourceCode/DatabaseTest/models"
+	"github.com/yusufpapurcu/GoDatabaseExample/database"
+	"github.com/yusufpapurcu/GoDatabaseExample/models"
 )
 
 // GetUser function for Get AllUsers in database
